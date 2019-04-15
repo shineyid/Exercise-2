@@ -1,0 +1,22 @@
+.formstyle{
+    
+    border: 2px solid royalblue;
+    width: 215px;
+    height: 180px;
+    margin:auto;
+}
+
+input {
+    width: 50px;
+    background-color: aqua;
+    font-size: 20px;
+    }
+
+#screen {
+    width: 210px;
+    height: 20px ;
+}
+#clear {
+        width: 210px;
+        height: 30px ;
+}
